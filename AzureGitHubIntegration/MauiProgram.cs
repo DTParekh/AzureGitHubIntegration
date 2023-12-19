@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 // 1st check in - comments
+// 2nd check in - comments
 namespace AzureGitHubIntegration
 {
     public static class MauiProgram
